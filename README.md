@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Simarjeet Kaur</h1>
 <h3 align="center">Passionate about coding, problem-solving, and building real-world projects</h3>
-(img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l")
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarjeetkaur20&label=Profile%20views&color=0e75b6&style=flat" alt="simarjeetkaur20" /> </p>
 
