@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simarjeetkaur20&show_icons=true&locale=en" alt="simarjeetkaur20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simarjeetkaur20&" alt="simarjeetkaur20" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-SimarjeetKaur20-black?logo=github)](https://github.com/SimarjeetKaur20)
+
