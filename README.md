@@ -51,10 +51,10 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simarjeetkaur20&show_icons=true&theme=default&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimarjeetKaur20&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simarjeetkaur20&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimarjeetKaur20&layout=compact&cache_seconds=1800" />
 </p>
 
