@@ -48,9 +48,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Simarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimarjeetKaur20&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetKaur20&layout=compact&theme=tokyonight&hide_border=true)
-
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimarjeetKaur20&show_icons=true&theme=default&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetKaur20&layout=compact&cache_seconds=1800" />
+</p>
